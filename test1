@@ -1,5 +1,9 @@
 This is test1 file
 changed
 changed twice
+<<<<<<< HEAD
 yaaaaaaaaaaaa
+=======
+ybbbbbbbbbbb
+>>>>>>> 6d342ff227a948cb3ba6b44dd964539f8ed66d18
 
